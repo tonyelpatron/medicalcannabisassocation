@@ -19,12 +19,7 @@ module.exports = {
       options: {
         plugins: [
           
-          {
-            resolve: `gatsby-plugin-layout`,
-            options: {
-              component: require.resolve(`./src/components/layout.js`),
-            },
-          },
+       
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
@@ -81,7 +76,7 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: `medicalcannabisorgnaization`,
+        username: `medicalcannabisorganization`,
         access_token: "a valid access token",
         instagram_id: "your instagram_business_account id",
         paginate: 100,
