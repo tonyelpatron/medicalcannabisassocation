@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Medical Cannabis Club',
+    title: 'Medical Cannabis Assocation',
     description:
       'Making Medical Cannabis available for everyone through enlightening',
   },

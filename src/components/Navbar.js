@@ -39,7 +39,7 @@ const Navbar = class extends React.Component {
      <section>
        <div className="container">
       <div className="logo has-text-centered">
-      <h1 className="title has-text-succes">Medical Cannabis Club</h1>
+      <h1 className="title has-text-succes">Medical Cannabis Assocation</h1>
       </div>
       </div>
 </section>
